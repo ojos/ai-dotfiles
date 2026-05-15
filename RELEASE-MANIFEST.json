@@ -1,13 +1,13 @@
 {
   "package": "ai-dotfiles",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "assets": [
     "RELEASE-MANIFEST.json",
     "SHA256SUMS",
     "PACKAGE_ARCHIVE.tar.gz"
   ],
   "checksums": {
-    "PACKAGE_ARCHIVE.tar.gz": "75dda02b2ca27d144bd0471574f1e7740a61d2f51f8e225cfb1c4a5673c684b9",
-    "SHA256SUMS": "429548f57185c3600ca6f1805d70d8bae38ea8e1bbf76c7e57156cd3be297fef"
+    "PACKAGE_ARCHIVE.tar.gz": "831f51030d53e9d2a1003085559e5758c3950fd20bacacbf19d5948c7861a297",
+    "SHA256SUMS": "a4cb2c18e6abb458233ae7aaeca49843785d55a3f9845a7a124b5b92f0c0e122"
   }
 }
